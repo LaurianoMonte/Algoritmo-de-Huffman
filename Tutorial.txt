@@ -1,0 +1,9 @@
+# Tarefa de Programação – Compressão de Huffman
+#
+# Aluno: Antônio Lauriano de Souza Monte
+#
+# Para comprimir: python main.py -c -f <arquivo>.txt
+#
+# Para descomprimir: python main.py -d -f <arquivo>.txt.huff
+#
+# Para realizar a analise de frequência e imprimir tabela de simbolos: python main.py -s -f <arquivo>.txt.huff
